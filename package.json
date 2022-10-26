@@ -1,0 +1,11 @@
+{
+  "name": "configs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Piotr Czeglik <piotr.czeglik@iohk.io>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
