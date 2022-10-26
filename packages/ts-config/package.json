@@ -1,0 +1,9 @@
+{
+  "name": "@iog/ts-config",
+  "version": "0.1.0",
+  "main": "base.json",
+  "license": "MIT",
+  "dependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
